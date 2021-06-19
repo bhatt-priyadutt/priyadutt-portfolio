@@ -8,4 +8,4 @@
 * Models used: Logistic Regression, GaussianNB, KNeighborsClassifier.
 * Accuracy achieved using logistic regression:82%
 
-![Image](https://github.com/bhatt-priyadutt/priyadutt-portfolio/blob/main/images/titanic_confusion_matrix.png)
+![](https://github.com/bhatt-priyadutt/priyadutt-portfolio/blob/main/images/titanic_confusion_matrix.png)
