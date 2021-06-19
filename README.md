@@ -1,6 +1,6 @@
 # priyadutt-portfolio
 
-## [**Project: Titanic-Machine Learning from Disaster**](https://github.com/bhatt-priyadutt/Titanic)
+## [**Project: Titanic-Machine Learning from Disaster**](https://github.com/bhatt-priyadutt/Titanic-Machine-learning-from-disaster)
 
 * This project was implemented to predict whether the passengers in the titanic crash survived or not. 
 * The prediction was done using features like passenger class, fare, age, embarked.
