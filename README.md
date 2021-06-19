@@ -9,3 +9,4 @@
 * Accuracy achieved using logistic regression:82%.
 
 <img src="images/titanic_confusion_matrix.png" />
+a
