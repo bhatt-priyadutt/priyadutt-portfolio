@@ -38,4 +38,4 @@
 * Models used: RandomForestRegressor, LinearRegression.
 * Accuracy achieved by using RandomForestRegressor: 81% 
 
-<img src="images/flight_fare_reg_plot.png" width=80px height=90px/>
+<img src="images/flight_fare_reg_plot.png" width=500px height=400px/>
