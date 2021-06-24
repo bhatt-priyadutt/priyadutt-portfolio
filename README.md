@@ -20,7 +20,6 @@
 * Libraries used: Sklearn, Numpy, Pandas, Matplotlib, Seaborn.
 * Models used: Linear Regression, Ridge.
 * R2 Score achieved using RidgeCV: 99%  
-* Mean Absoute error :14.7
 
 
 ## [**Project: Stock Sentiment Analysis**](https://github.com/bhatt-priyadutt/stock-sentiment-analysis)
@@ -29,6 +28,7 @@
 * Based on the headlines of various sources about a company, I performed sentiment analysis to predict the price increase or decrease.
 * Models Used: RandomForestClassifier.
 * Methods Used: Count Vectorizer.
+* Accuracy achieved using RandomForestClassifier: 86%
 
 <img src="images/stock_confusion_matrix.png" />
 
