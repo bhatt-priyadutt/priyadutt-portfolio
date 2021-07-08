@@ -35,7 +35,7 @@
 <img src="images/cluster.png" width=500px height=400px/>
 
 
-## [**Project: IPL Data Analysis(2008-2019)**](https://github.com/bhatt-priyadutt/Sales-conversion)
+## [**Project: IPL Data Analysis(2008-2019)**](https://github.com/bhatt-priyadutt/IPL-data-analysis)
 
 
 * In this Project, I have performed Exploratory Data analysis to answer below questions as a sports analyst: 
