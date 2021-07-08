@@ -22,7 +22,7 @@
 * R2 Score achieved using RidgeCV: 99%  
 
 
-# [**Project: Cluster Analysis for Ad Conversions Data**](https://github.com/bhatt-priyadutt/Sales-conversion)
+## [**Project: Cluster Analysis for Ad Conversions Data**](https://github.com/bhatt-priyadutt/Sales-conversion)
 
 * The dataset contains information about the company's ad campaigns and I have analyzed the best campaigns among them.
 * In this Project, I have performed Exploratory Data analysis, Feature Scaling and used clustering technique to answer the below business questions:
