@@ -32,7 +32,7 @@
   4. Comparing the individual campaign performance so the best creative/campaign can be run again with adjusted audiences.
 * Models used: Kmeans
 
-<img src="https://github.com/bhatt-priyadutt/priyadutt-portfolio/blob/main/images/cluster.png" width=500px height=400px/>
+<img src="images/cluster.png" width=500px height=400px/>
 
 ## [**Project: Stock Sentiment Analysis**](https://github.com/bhatt-priyadutt/stock-sentiment-analysis)
 
