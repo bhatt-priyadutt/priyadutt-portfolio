@@ -11,6 +11,11 @@
 
 <img src="images/titanic_confusion_matrix.png" />
 
+# [**Project: Product-Recommendation-System**](https://github.com/bhatt-priyadutt/product-recommendation-system) 
+* Used Collaborative Filtering algorithm to recommend items by finding the correlation between users based on users’ ratings.
+* Finding if there is a market bias in the data.
+* Approach Used: Collaborative filtering.
+* Models Used: Singular value decomposition.
 
 ## [**Project: House Price Prediction**](https://github.com/bhatt-priyadutt/house-price-prediction)
 
