@@ -12,7 +12,7 @@
 
 <img src="images/cluster.png" width=500px height=400px/>
 
-## [**Project: Audio Emotion Recognition System**](https://github.com/bhatt-priyadutt/IPL-data-analysis)
+## [**Project: Audio Emotion Recognition System**](https://github.com/bhatt-priyadutt/emotion-recognition-system)
 
 * Emotion Recognition was done using audio of human voice by extracting features like MFCC(Mel-Frequency Cepstral Coefficient) and trained a artificial neural network model(ANN) with 99% Accuracy.
 
