@@ -1,5 +1,33 @@
 # priyadutt-portfolio
 
+## [**Project: Cluster Analysis for Ad Conversions Data**](https://github.com/bhatt-priyadutt/Sales-conversion)
+
+* The dataset contains information about the company's ad campaigns and I have analyzed the best campaigns among them.
+* In this Project, I have performed Exploratory Data analysis, Feature Scaling and used clustering technique to answer the below business questions:
+  1. How to optimize the social ad campaigns for the highest conversion rate possible. (Attain best Reach to Conversion ratios/Click to Conversion ratios)
+  2. Finding the perfect target demographics with the appropriate clickthrough rates
+  3. Understanding the ideal turnaround/decision making time per age group to convert and retarget future social campaigns
+  4. Comparing the individual campaign performance so the best creative/campaign can be run again with adjusted audiences.
+* Models used: Kmeans
+
+<img src="images/cluster.png" width=500px height=400px/>
+
+## [**Project: Audio Emotion Recognition System**](https://github.com/bhatt-priyadutt/IPL-data-analysis)
+
+* Emotion Recognition was done using audio of human voice by extracting features like MFCC(Mel-Frequency Cepstral Coefficient) and trained a artificial neural network model(ANN) with 99% Accuracy.
+
+<img src="images/emotion.png" width=500px height=400px/>
+
+
+## [**Project: IPL Data Analysis(2008-2019)**](https://github.com/bhatt-priyadutt/IPL-data-analysis)
+
+* In this Project, I have performed Exploratory Data analysis to answer below questions as a sports analyst: 
+  1. As a sports analyst, find out the most successful teams, players and factors contributing win or loss of a team.
+  2. Suggest teams or players a company should endorse for its products.
+
+<img src="images/ipl.png" width=500px height=400px/>
+
+
 ## [**Project: Titanic-Machine Learning from Disaster**](https://github.com/bhatt-priyadutt/Titanic-Machine-learning-from-disaster)
 
 * This project was implemented to predict whether the passengers in the titanic crash survived or not. 
@@ -27,19 +55,6 @@
 * R2 Score achieved using RidgeCV: 99%  
 
 
-## [**Project: Cluster Analysis for Ad Conversions Data**](https://github.com/bhatt-priyadutt/Sales-conversion)
-
-* The dataset contains information about the company's ad campaigns and I have analyzed the best campaigns among them.
-* In this Project, I have performed Exploratory Data analysis, Feature Scaling and used clustering technique to answer the below business questions:
-  1. How to optimize the social ad campaigns for the highest conversion rate possible. (Attain best Reach to Conversion ratios/Click to Conversion ratios)
-  2. Finding the perfect target demographics with the appropriate clickthrough rates
-  3. Understanding the ideal turnaround/decision making time per age group to convert and retarget future social campaigns
-  4. Comparing the individual campaign performance so the best creative/campaign can be run again with adjusted audiences.
-* Models used: Kmeans
-
-<img src="images/cluster.png" width=500px height=400px/>
-
-
 # [**Project: OpenCV Object Detection**](https://github.com/bhatt-priyadutt/OpenCV-Object-Detection)
 
 * In this project, I implemented an image and video object detection classifier using a pretrained yolov3 model. The approach used in the project was to consider bounding boxes that have a greater confidence level(probability) than the confidence threshold (70%) & assign the shape with one of the classes from pre-defined class names. The rectangle bounding boxes are created across the object with the assigning name of the object. The output generated was video/image having detection of the objects that are highlighted with the rectangle.
@@ -47,15 +62,6 @@
 
 <img src="images/opencv.png" width=500px height=400px/>
 
-
-## [**Project: IPL Data Analysis(2008-2019)**](https://github.com/bhatt-priyadutt/IPL-data-analysis)
-
-
-* In this Project, I have performed Exploratory Data analysis to answer below questions as a sports analyst: 
-  1. As a sports analyst, find out the most successful teams, players and factors contributing win or loss of a team.
-  2. Suggest teams or players a company should endorse for its products.
-
-<img src="images/ipl.png" width=500px height=400px/>
 
 ## [**Project: Stock Sentiment Analysis**](https://github.com/bhatt-priyadutt/stock-sentiment-analysis)
 
