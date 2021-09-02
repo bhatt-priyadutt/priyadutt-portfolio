@@ -9,13 +9,11 @@
   3. Understanding the ideal turnaround/decision making time per age group to convert and retarget future social campaigns
   4. Comparing the individual campaign performance so the best creative/campaign can be run again with adjusted audiences.
 * Models used: Kmeans
-
 <img src="images/cluster.png" width=500px height=400px/>
 
 ## [**Project: Audio Emotion Recognition System**](https://github.com/bhatt-priyadutt/emotion-recognition-system)
 
 * Emotion Recognition was done using audio of human voice by extracting features like MFCC(Mel-Frequency Cepstral Coefficient) and trained a artificial neural network model(ANN) with 99% Accuracy.
-
 <img src="images/emotion.png" width=500px height=400px/>
 
 
@@ -24,7 +22,6 @@
 * In this Project, I have performed Exploratory Data analysis to answer below questions as a sports analyst: 
   1. As a sports analyst, find out the most successful teams, players and factors contributing win or loss of a team.
   2. Suggest teams or players a company should endorse for its products.
-
 <img src="images/ipl.png" width=500px height=400px/>
 
 
@@ -36,8 +33,12 @@
 * Models used: Logistic Regression, GaussianNB, KNeighborsClassifier.
 * Deployed on Heroku [Click Here ](https://titanic-flask-heroku-app.herokuapp.com/).
 * Accuracy achieved using logistic regression:82%.
-
 <img src="images/titanic_confusion_matrix.png" />
+
+## [**Project: Multi-Output-Regression**](https://github.com/bhatt-priyadutt/Multi-Output-Regression)
+*  Estimating customer value and extrapolating the existing value into future are the sought-after problems of any business. The current problem hails from the domain of online skill-based gaming. Used different customer features of different timestamps to predict the customer value using ANN.
+* Loss funcion: RMSE(Root Mean Squared Error)
+<img src="images/loss-multi.png" />
 
 ## [**Project: Product-Recommendation-System**](https://github.com/bhatt-priyadutt/product-recommendation-system) 
 * Used Collaborative Filtering algorithm to recommend items by finding the correlation between users based on users’ ratings.
@@ -54,12 +55,10 @@
 * Models used: Linear Regression, Ridge.
 * R2 Score achieved using RidgeCV: 99%  
 
-
 # [**Project: OpenCV Object Detection**](https://github.com/bhatt-priyadutt/OpenCV-Object-Detection)
 
 * In this project, I implemented an image and video object detection classifier using a pretrained yolov3 model. The approach used in the project was to consider bounding boxes that have a greater confidence level(probability) than the confidence threshold (70%) & assign the shape with one of the classes from pre-defined class names. The rectangle bounding boxes are created across the object with the assigning name of the object. The output generated was video/image having detection of the objects that are highlighted with the rectangle.
 * Libraries used: NumPy, OpenCV(cv2), Tkinter
-
 <img src="images/opencv.png" width=500px height=400px/>
 
 
@@ -70,7 +69,6 @@
 * Models Used: RandomForestClassifier.
 * Methods Used: Count Vectorizer.
 * Accuracy achieved using RandomForestClassifier: 86%
-
 <img src="images/stock_confusion_matrix.png" />
 
 ## [**Project: Flight Fare Prediction**](https://github.com/bhatt-priyadutt/flight-fare-prediction)
@@ -78,5 +76,4 @@
 * This project was implemented to predict the prices of flights. The parameters used for prediction were Date of journey, duration, source, destination, total stops etc. Also, I have used hyper parameter tunning for better accuracy/performance of model.
 * Models used: RandomForestRegressor, LinearRegression.
 * Accuracy achieved by using RandomForestRegressor: 81% 
-
 <img src="images/flight_fare_reg_plot.png" width=500px height=400px/>
